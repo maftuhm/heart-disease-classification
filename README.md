@@ -1,1 +1,2 @@
 # heart-disease-classification
+Data ini menetapkan tanggal dari tahun 1988 dan terdiri dari empat database: Cleveland, Hongaria, Swiss, dan Long Beach V. Ini berisi 76 atribut, termasuk atribut yang diprediksi, tetapi semua percobaan yang diterbitkan merujuk pada menggunakan subset dari 14 di antaranya. Bidang "target" mengacu pada adanya penyakit jantung pada pasien. Bilangan bulat bernilai 0 (tidak ada penyakit) dan 1 (penyakit).
